@@ -1,0 +1,14 @@
+{
+  "name": "typingmind-mcp-server",
+  "version": "1.0.0",
+  "description": "TypingMind MCP Server for Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @typingmind/mcp $AUTH_TOKEN"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
